@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<Root PresetName="Custom" MajorVersion="4" MinorVersion="2">
-	<KeyboardLayout>en-US</KeyboardLayout>
+<Root PresetName="ThrustMasterHOTASViper">
 	<MouseXMode Value="" />
 	<MouseXDecay Value="0" />
 	<MouseYMode Value="" />
