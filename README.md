@@ -7,7 +7,7 @@ Both `*.binds` and `*.buttonMap` files are in fact just regular ol' XML. I have 
 ## Installation
 The `DeviceMappings.xml` and `ThrustMasterHOTASViper.binds` files go into `%SteamLibrary%\steamapps\common\Elite Dangerous\Products\elite-dangerous-odyssey-64\ControlSchemes`.
 
-The `*.buttonMap` files in the `DeviceButtonMaps` folder are really the crux of the biscuit. These are mappings between standardized "machine readable" axis and button names and useful "human readable" names (and icons). 
+The `*.buttonMap` files in the `DeviceButtonMaps` folder are really the crux of the biscuit. These are mappings between standardized "machine readable" axis and button names and useful "human readable" names (and icons).
 
 I haven't quite figured out the icons yet, except to tell you to check the `Readme.txt` in the official `DeviceButtonMaps` folder. I may have more to say later on the topic of viewing / previewing the icons. I can't find them in a readily accesible cleartext form in the official binaries (yet).
 
