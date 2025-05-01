@@ -1,10 +1,13 @@
 # ED-Control-Noodling
+
 Noodling around with some (built-in) Elite Dangerous features to try to figure out how to make a smart control binding app.
 
 ## File Formats
+
 Both `*.binds` and `*.buttonMap` files are in fact just regular ol' XML. I have opinions about the structure of this particular XML. I've already said too much.
 
 ## Installation
+
 The `DeviceMappings.xml` and `ThrustMasterHOTASViper.binds` files go into `%SteamLibrary%\steamapps\common\Elite Dangerous\Products\elite-dangerous-odyssey-64\ControlSchemes`.
 
 The `*.buttonMap` files in the `DeviceButtonMaps` folder are really the crux of the biscuit. These are mappings between standardized "machine readable" axis and button names and useful "human readable" names (and icons).
